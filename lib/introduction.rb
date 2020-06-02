@@ -10,7 +10,6 @@ def introduction(name)
   
 end
 
-introduction ("Tigist")
 
 
 def introduction_with_language(name,language)
@@ -20,7 +19,6 @@ def introduction_with_language(name,language)
 end
 
 
-introduction_with_language  "Tigist", "Ruby"
 
 
 
